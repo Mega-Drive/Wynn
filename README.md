@@ -1,0 +1,2 @@
+# Wynn
+Wynn landing page
